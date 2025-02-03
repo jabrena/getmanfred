@@ -1,0 +1,177 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Juan Antonio",
+      "surnames": "Breña Moral",
+      "title": "%%HEADLINE%%",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/juanantoniobrenamoral/"
+      }
+    ]
+  },
+  "experience": {},
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "FR",
+        "fullName": "Francés",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JUnit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Taller de Engineering Manager",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "Felix Lopez",
+          "description": "Curso de Engineering Manager, Gestión de proyectos de tecnología de la informaciónCurso de Engineering Manager, Gestión de proyectos de tecnología de la información\n",
+          "URL": "https://signup.engineeringmanager.academy/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/02/03/7a10e75c-e70a-470b-be6f-daee22d35740_1663003557944.jpeg",
+            "alt": "1663003557944.jpeg"
+          }
+        },
+        "finishDate": "2022-09-01"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/juanantoniobrenamoral/",
+          "type": "linkedin"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "Java",
+          "type": "technology"
+        },
+        {
+          "name": "Kafka",
+          "type": "technology"
+        },
+        {
+          "name": "Maven",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Engineering Management",
+        "Product Manager",
+        "Product Owner",
+        "Tech Lead",
+        "VP of Engineering"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Azure",
+        "type": "technology"
+      },
+      {
+        "name": "JUnit",
+        "type": "technology"
+      },
+      {
+        "name": "Java",
+        "type": "technology"
+      },
+      {
+        "name": "Maven",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Llevar 2 Squads completos, llevando cerca de 15 personas con una composicion en Rombo y desarrollando Backend Java sobre Openshift o Azure o AWS.\n\nEl puesto tendria una componente internacional y capacidad de seguir formandome junto al equipo."
+  }
+}
